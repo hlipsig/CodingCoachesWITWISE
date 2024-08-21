@@ -56,10 +56,9 @@ Knowing the technical side of software development will help you with your first
 
 Especially if you know another language outside golang, I think most people can complete this course in something like 120 hours (or ~3 weeks full time). Here's a schedule to keep you on track with your progress:
 
-- [ ] Independence and Shell Basics
-    - [ ] [Day 1](./day-01.md)
-- [ ] Git Basics
-    - [ ] [Day 2](./day-02.md) _coming soon!_
+- [ ] Prerequisites: Independence, Shell, IDE, and Version Control
+    - [ ] [Day 1: Search and Shell Basics](./day-01.md)
+    - [ ] [Day 2: IDE and Version Control (git)](./day-02.md)
 - [ ] Golang Basics
     - [ ] [Day 3](./day-03.md) _coming soon!_
     - [ ] [Day 4](./day-04.md) _coming soon!_
